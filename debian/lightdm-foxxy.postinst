@@ -1,0 +1,6 @@
+#!/bin/bash
+set -e
+cat /usr/lib/lightdm-foxxy/lightdm.conf > /etc/lightdm/lightdm.conf
+cat /usr/lib/lightdm-foxxy/lightdm-gtk-greeter.conf > /etc/lightdm/lightdm-gtk-greeter.conf
+cat /usr/lib/lightdm-foxxy/users.conf > /etc/lightdm/users.conf
+cat /usr/lib/lightdm-foxxy/wallpaper.jpg > /etc/lightdm/wallpaper.jpg

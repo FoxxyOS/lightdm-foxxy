@@ -1,0 +1,29 @@
+lightdm-foxxy (2.6+foxxy0) testing; urgency=medium
+
+  * Add onboard keyboard
+  * Enable accessibility features
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Sun, 26 Feb 2017 19:01:04 +0100
+
+lightdm-foxxy (2.5+foxxy0) testing; urgency=medium
+
+  * update background image
+  * update package structure
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Sun, 04 Dec 2016 19:02:49 +0100
+
+lightdm-foxxy (2.4+foxxy0) testing; urgency=medium
+
+  * update config files
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Sat, 03 Dec 2016 01:05:04 +0100
+
+lightdm-foxxy (2.3+foxxy0) testing; urgency=medium
+
+  [ Lisetta "Sheireen" Ferrero ]
+  * Debianize source code
+  * Change wallpaper
+
+  [ Lorenzo "Palinuro" Faletra ]
+
+ -- Lisetta "Sheireen" Ferrero <sheireen@autistiche.org>  Sat, 23 Jul 2016 10:56:32 +0400
